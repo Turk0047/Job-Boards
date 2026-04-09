@@ -1,0 +1,97 @@
+{
+  "channel": {
+    "title": "Full Sail Community Jobs Feed",
+    "link": "https://YOUR_GITHUB_USERNAME.github.io/YOUR_REPO_NAME/",
+    "description": "Merged jobs feed for Discord and MEE6 from art, animation, and game industry job boards.",
+    "language": "en-us"
+  },
+  "max_items": 100,
+  "filters": {
+    "include_keywords": [
+      "3d",
+      "animation",
+      "animator",
+      "artist",
+      "environment artist",
+      "character artist",
+      "technical artist",
+      "vfx",
+      "fx artist",
+      "game designer",
+      "level designer",
+      "ui",
+      "ux",
+      "gameplay",
+      "modeler",
+      "rigger",
+      "unreal",
+      "unity"
+    ],
+    "exclude_keywords": [
+      "casino",
+      "sports betting"
+    ]
+  },
+  "sources": [
+    {
+      "name": "We Work Remotely",
+      "feed_url": "https://weworkremotely.com/remote-jobs.rss",
+      "enabled": true
+    },
+    {
+      "name": "Jobicy",
+      "feed_url": "https://jobicy.com/?feed=job_feed",
+      "enabled": true
+    },
+    {
+      "name": "ArtStation",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Hitmarker",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "GameJobs.co",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "GamesIndustry.biz Jobs",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "InGameJob",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Animated Jobs",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Animation World Network",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Remote Game Jobs",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Outscal",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    },
+    {
+      "name": "Ten.gg",
+      "feed_url": "PASTE_GENERATED_RSS_URL_HERE",
+      "enabled": false
+    }
+  ]
+}
